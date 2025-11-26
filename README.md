@@ -46,7 +46,7 @@ npm run dev
 
 ## 🔗 Live Demo
 
-Coming soon! (Deploying to Vercel next)
+[View Live App](https://expense-splitter-dun.vercel.app) 🌐
 
 ---
 
