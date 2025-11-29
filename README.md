@@ -2,6 +2,8 @@
 
 A simple and clean web app to split bills fairly among friends. No more awkward math at dinner! 🍕
 
+![Expense Splitter Preview](screenshot.png)
+
 ## ✨ Features
 
 - 💵 Enter total bill amount
